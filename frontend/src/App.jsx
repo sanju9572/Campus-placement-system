@@ -1,13 +1,13 @@
 import { Routes, Route } from "react-router-dom";
 import Welcome from "./components/Welcome";
 import RegistrationForm from "./components/RegistrationForm";
-import Login from "./components/login";
+import Login from "./components/Login";
 import StudentProfileForm from "./components/StudentProfileForm";
 import StudentDashboard from "./components/DashboardUI";
 
 
 
-
+  
 
 function App() {
   return (
